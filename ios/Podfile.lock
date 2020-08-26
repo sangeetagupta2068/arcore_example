@@ -1,0 +1,22 @@
+PODS:
+  - arcore_flutter_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - arcore_flutter_plugin (from `.symlinks/plugins/arcore_flutter_plugin/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  arcore_flutter_plugin:
+    :path: ".symlinks/plugins/arcore_flutter_plugin/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  arcore_flutter_plugin: 59886964cab86408a05fd43442ca780a45ccdb87
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.9.1
